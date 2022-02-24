@@ -20,7 +20,7 @@ It is maintained by NeuralNine, for this module 1.Set Up a basic assistant
                                                 
 For more information go here - https://pypi.org/project/neuralintents/
 
-3.SpeechRecognition 3.8.1 - Library for performing speech recognition, with support for several engines and APIs, online and offline.
+3.SpeechRecognition 3.8.1 - Library for performing speech recognition, with support for several engines and APIs, online and offline
 
 Write this command in your terminal - pip install SpeechRecognition 
 To quickly try it out, run python -m speech_recognition after installing.
